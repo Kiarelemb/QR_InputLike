@@ -7,5 +7,7 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="QR_Method" level="project" />
+    <orderEntry type="library" name="QR_Swing" level="project" />
   </component>
 </module>
